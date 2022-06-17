@@ -1,0 +1,22 @@
+.container{
+  padding: 0 16px;
+  background-color: aqua;
+  width: 451px;
+  height: 500px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.white-screen{
+  background-color: white;
+width: 434px;
+height: 338px;
+margin-left: 0px;
+margin-top: 92px;
+
+}
+.calculator-input{
+ background-color: azure;
+  width: 200px;
+  height: 20px;  border-radius: 5px;
+
+}
